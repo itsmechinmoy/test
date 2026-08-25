@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+}
+
+.counter {
+    width: 350px;
+    margin: 60px auto;
+    background: white;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.button {
+    width: 10px;
+    cursor: pointer;
+    background: #2563eb;
+    padding: 30px 18px;
+    border-radius: 6px;
+    border: none;
+    color: white;
+}
+
+.button-hover {
+    background: #1d4ed8;
+}
